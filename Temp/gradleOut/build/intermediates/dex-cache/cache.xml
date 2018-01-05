@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\MyUnity\Rocket\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="997bed8c5290bdbae5c8767ba09af501f19e1c08">
+        <dex dex="D:\MyUnity\Rocket\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_c3a08d351ef9e584ce76be5d7bf01320ca2a7380.jar" />
+    </item>
+
+</items>
